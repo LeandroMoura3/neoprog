@@ -1,0 +1,5 @@
+1) Apenas uma única rolagem foi usada para treinar. Como se garante que a generalização?
+2) Os dados foram normalizados? Como lidar com a normalização dos dados?
+- No artigo 27 é dito que os valores de entrada devem estar entre 0 e 1.	
+3) De onde o autor tirou a chance de falha dos esquema demosntrado na figura 12?
+
